@@ -1,0 +1,38 @@
+{
+  "bbox": [
+    116.23,
+    -31.87,
+    116.38,
+    -31.73
+  ],
+  "date_pre": "2021-01-31",
+  "date_post": "2021-03-17",
+  "scene_id_pre": "S2B_50HMK_20210131_1_L2A",
+  "scene_id_post": "S2A_50HMK_20210317_1_L2A",
+  "crs_epsg": "unknown",
+  "resolution_m": 20,
+  "shape": [
+    6,
+    782,
+    716
+  ],
+  "bands": [
+    "B02 Blue",
+    "B03 Green",
+    "B04 Red",
+    "B08 NIR",
+    "B11 SWIR1",
+    "B12 SWIR2"
+  ],
+  "wavelengths_nm": [
+    490,
+    560,
+    665,
+    842,
+    1610,
+    2190
+  ],
+  "source": "Digital Earth Australia, Sentinel-2 NBART ARD, CC-BY 4.0",
+  "scale": "float16, reflectance 0-1",
+  "wooroloo_fire": "ignited 2021-02-01, ~8400 ha, 86 homes destroyed"
+}
